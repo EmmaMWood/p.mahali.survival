@@ -1,6 +1,8 @@
 # p.mahali_survival
 data for Wood &amp; Young paper: Telomere attrition predicts reduced survival in a wild social bird, but short telomeres do not
-  
+ 
+The following files will be uploaded on acceptance of the paper, but will be made available to reviewers on request from emmamwood85@gmail.com
+
 Files:    
 Wood_Young_Nestling_Survival_Delta_RTL.csv: data for investigating the effect of change in nestling telomere length on survival,  
 Wood_Young_Nestling_Survival_D12_RTL: data for investigating the effect of nestling telomere length at day 12 on survival,  
